@@ -114,3 +114,21 @@ img.skill-image {
     margin: auto;
     margin: 37px 0px 0px 83px;
 }
+
+.r-heading {
+    font-family: "Raleway", sans-serif;
+}
+
+.subtitle {
+    color: rgb(173, 62, 81) !important;
+    font-weight: 600;
+}
+
+.light-text {
+    color: rgb(99, 99, 99);
+}
+
+ul.work-list {
+    line-height: 3em;
+    list-style: circle;
+}
