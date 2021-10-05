@@ -84,3 +84,9 @@ h1 em {
     margin-left: -50px;
     background-color: rgb(173, 62, 81) !important;
 }
+
+i.fa {
+    color: #fff;
+    font-size: 29px;
+    margin-right: 10px;
+}
