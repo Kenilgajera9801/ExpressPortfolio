@@ -31,7 +31,7 @@ h2.heading>span {
     background-color: rgb(173, 62, 81) !important;
 }
 
-h1 {
+.title-style {
     position: relative;
     padding: 0;
     margin: 0;
@@ -44,24 +44,24 @@ h1 {
     transition: all 0.4s ease 0s;
 }
 
-h1 span {
+.title-style span {
     display: block;
     font-size: 0.5em;
     line-height: 1.3;
 }
 
-h1 em {
+.title-style em {
     font-style: normal;
     font-weight: 600;
 }
 
-.one h1 {
+.my-heading .title-style {
     text-align: center;
     text-transform: uppercase;
     padding-bottom: 5px;
 }
 
-.one h1:before {
+.my-heading .title-style:before {
     width: 28px;
     height: 5px;
     display: block;
@@ -73,7 +73,7 @@ h1 em {
     background-color: rgb(173, 62, 81) !important;
 }
 
-.one h1:after {
+.my-heading .title-style:after {
     width: 100px;
     height: 1px;
     display: block;
@@ -89,4 +89,28 @@ i.fa {
     color: #fff;
     font-size: 29px;
     margin-right: 10px;
+}
+
+.contact-form {
+    margin: auto;
+    width: 60%;
+    border: 1px solid #ddd;
+    padding: 23px;
+    border-radius: 5px;
+}
+
+.h5,
+h5 {
+    font-size: 20px;
+    overflow: hidden;
+}
+
+.skill {
+    padding: 18px 0px;
+}
+
+img.skill-image {
+    width: 82%;
+    margin: auto;
+    margin: 37px 0px 0px 83px;
 }
