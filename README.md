@@ -12,6 +12,6 @@ npm install
 ```
 3. Run App Server By entering the following command in bash:
 ```bash
-$env:DEBUG='expressportfolio:*'; npm start
+npm start
 ```
 4. Navigate to [localhost:3000](localhost:3000) to see results.
