@@ -132,3 +132,27 @@ ul.work-list {
     line-height: 3em;
     list-style: circle;
 }
+
+.card-title {
+    overflow-y: hidden;
+}
+
+.card {
+    height: 350px;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    border: 0px;
+    border-radius: 8px;
+}
+
+.card-img-overlay {
+    padding: 5.25rem 1.25rem;
+    text-align: center;
+    color: #fff;
+}
+
+.card-btn {
+    color: #000 !important;
+    background-color: #fff;
+    border: 0px;
+}
