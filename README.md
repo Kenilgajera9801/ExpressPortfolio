@@ -15,3 +15,9 @@ npm install
 npm start
 ```
 4. Navigate to [localhost:3000](localhost:3000) to see results.
+
+Image citation:
+
+5. Cartton programming photo. (n.d.). freepik. photograph. Retrieved October 9, 2021, from https://downloader.la/freepik-downloader.html.
+
+6. SetPhoto-Skills. (n.d.). Freepik. photograph. Retrieved October 9, 2021, from https://downloader.la/freepik-downloader.html. 
